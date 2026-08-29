@@ -1,2 +1,2 @@
 PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
-https://github.com/Pravu-19/flyrank-internship-ml/blob/main/work/notebooks/capstone.ipynb
+https://github.com/Pravu-19/flyrank-internship-ml.git
