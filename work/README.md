@@ -5,7 +5,7 @@ Static, Vercel-ready research paper site for the FlyRank ML capstone.
 ## Deploy on Vercel
 
 1. Import the GitHub repository.
-2. Set **Root Directory** to `web`.
+2. Set **Root Directory** to `work`.
 3. Framework preset: **Other** (static site).
 4. Build command: leave empty.
 5. Output directory: `.`.
