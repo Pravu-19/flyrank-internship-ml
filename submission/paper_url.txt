@@ -1,2 +1,1 @@
 https://flyrank-internship-ml.vercel.app
-https://github.com/Pravu-19/flyrank-internship-ml/blob/main/work/capstone_report.md
